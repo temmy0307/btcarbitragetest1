@@ -74,5 +74,4 @@ print('最安値:', minind,min)
 
 
 print(minind,'で買って',maxind,'で売れば',max-min, '円の利益が出ます!/1BTCあたり')
-time.sleep(30)
-
+input()
